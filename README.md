@@ -1,5 +1,5 @@
 # MapTest
-Corelocationを使って、緯度と経度の取得ができました。
+CoreLocationを使って、緯度と経度の取得ができました。
 取得した緯度と経度は以下2つの方法で表示しました。
 
 ①UIkitのLabelに入れて表示
